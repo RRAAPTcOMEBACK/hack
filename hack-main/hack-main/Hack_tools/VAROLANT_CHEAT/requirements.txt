@@ -1,0 +1,13 @@
+httpx
+psutil
+pypiwin32
+pycryptodome
+pyinstaller
+PIL-tools
+psutil
+asyncio
+argv
+ImageGrab
+match
+AES
+PySimpleGUI
